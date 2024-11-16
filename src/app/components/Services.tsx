@@ -86,7 +86,7 @@ const Services = () => {
 
 
                         <h3 className="__className_28ff18 font-bold  text-black hover:text-white">UI / UX</h3>
-                        <p className="undefined  text-black hover:text-white text-sm font-semibold text-justify"> Our UI&UX design offerings are meticulously researched to simplify complex products, propelling your brand's growth and making it stand out..  </p>
+                        <p className="undefined  text-black hover:text-white text-sm font-semibold text-justify"> Our UI&UX design offerings are meticulously researched to simplify complex products, propelling your brands growth and making it stand out..  </p>
 
                         <hr className="w-full" />
 
