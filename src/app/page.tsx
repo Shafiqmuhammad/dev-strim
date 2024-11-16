@@ -8,6 +8,7 @@ import Packages from "./components/packages/packages";
 import Privacy from "./components/privacy";
 import Disclaimer from "./components/Disclaimer";
 import About from "./components/About";
+import Teams from "./teams/page";
 
 
 
@@ -32,6 +33,10 @@ function HomePage() {
       </div>
 
       <div className="">
+        <Teams />
+
+      </div>
+      <div className="">
         <Services />
 
       </div>
@@ -40,13 +45,13 @@ function HomePage() {
         <Packages />
       </div>
 
-      <div className="" >
+      {/* <div className="" >
         <Privacy />
       </div>
 
       <div className="" >
         <Disclaimer />
-      </div>
+      </div> */}
 
     </>
   );
