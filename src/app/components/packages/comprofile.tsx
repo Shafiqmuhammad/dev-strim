@@ -17,9 +17,9 @@ const Comprofile = () => {
 
 
     return (
-        <section className=" flex flex-col px-6 py-20 md:px-32 bg-black ">
+        <section className=" flex flex-col px-6 pt-2 pb-20 md:px-32 bg-black ">
             <h1 className="text-4xl lg:text-6xl text-center text-[#f38a0b] font-extrabold">Create Package
-                <span className="text-white">AI Website</span> </h1>
+                <span className="text-white">Company Profile</span> </h1>
 
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mt-16 px-3 lg:px-0 aos-init aos-animate" data-aos="fade-right"

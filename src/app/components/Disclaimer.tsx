@@ -14,7 +14,7 @@ export default function Disclaimer(): JSX.Element {
                 <p className="mb-3 text-lg  text-[#f38a0b]">
                     <h1>Disclaimer for DevSTRIM</h1>
 
-                    <p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at shafiq00786@hotmail.com. Our Disclaimer was generated with the help of the <a href="https://www.disclaimergenerator.net/">Free Disclaimer Generator</a>.</p>
+                    <p>If you require any more information or have any questions about our sites disclaimer, please feel free to contact us by email at shafiq00786@hotmail.com. Our Disclaimer was generated with the help of the <a href="https://www.disclaimergenerator.net/">Free Disclaimer Generator</a>.</p>
 
                     <h2>Disclaimers for DevSTRIM.com</h2>
 
@@ -22,7 +22,7 @@ export default function Disclaimer(): JSX.Element {
 
                     <p>From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.</p>
 
-                    <p>Please be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Please be sure to check the Privacy Policies of these sites as well as their "Terms of Service" before engaging in any business or uploading any information.</p>
+                    <p>Please be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Please be sure to check the Privacy Policies of these sites as well as their Terms of Service before engaging in any business or uploading any information.</p>
 
                     <h2>Consent</h2>
 

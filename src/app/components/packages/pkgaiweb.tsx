@@ -17,7 +17,7 @@ const Pkgweb = () => {
 
 
     return (
-        <section id="aisection" className=" flex flex-col px-6 py-20 md:px-32 bg-black ">
+        <section id="aisection" className=" flex flex-col px-6 pt-2 pb-20 md:px-32 bg-black ">
             <h1 className="text-4xl lg:text-6xl text-center text-[#f38a0b] font-extrabold">Create Package
                 <span className="text-white">AI Website</span> </h1>
 
