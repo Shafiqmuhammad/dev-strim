@@ -1,7 +1,8 @@
 import Image from 'next/image';
 import React from 'react';
 import { LuShoppingCart } from "react-icons/lu";
-import bannerImg from "../../../public/banner-msn-production.8e716164a6fa01f89e4471859fd814c8.svg"
+import bannerImg from "../../../public/logos/logos.png"
+// import bannerImg from "../../../public/banner-msn-production.8e716164a6fa01f89e4471859fd814c8.svg"
 import imgHero from "/public/logo.png"
 
 import Link from 'next/link';
@@ -12,7 +13,7 @@ const londrina = Londrina_Outline({ subsets: ['latin'], weight: '400' })
 
 const Banner = () => {
     return (
-        <section id="home" className='flex flex-col gap-y-10 lg:flex-row md:flex-row py-8 bg-black text-[#f38a0b] '>
+        <section id="home" className='flex flex-col gap-y-10 lg:flex-row md:flex-row px-6 py-20 ml-20 mr-20 mt-20 bg-black text-[#f38a0b] '>
             {/* LEFT DIV */}
             <div className='flex-1'>
 

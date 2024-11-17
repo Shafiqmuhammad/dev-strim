@@ -17,9 +17,9 @@ const Services = () => {
 
 
     return (
-        <section id="services" className=" flex flex-col px-6 py-20 md:px-32 bg-black ">
+        <section id="services" className=" flex flex-col px-6 py-20 md:px-32 bg-black text-center ">
             <h1 className="text-6xl lg:text-8xl text-[#f38a0b] font-extrabold">Services</h1>
-            <div className="flex items-center space-x-2 pt-4 md:pt-7">
+            <div className="flex items-center space-x-2 pt-4 md:pt-7 text-center">
                 <hr className="w-6 border-t-4 border-[#f38a0b] md:w-14" />
                 <h5 className="font-mono text-xl font-bold text-white">Our Solutions</h5>
                 <hr className="w-6 border-t-4 border-[#f38a0b] md:w-14" />
@@ -134,9 +134,9 @@ const Services = () => {
 
                 {/* ....... */}
 
-                <div className=" rounded-lg text-center space-y-11 border-2 p-4 relative bg-blue-300 shadow-lg mt-5 md:mt-0  hover_transtion_effect ">
+                <div className=" rounded-lg text-center space-y-11 border-2 p-4 relative bg-[#f38a0b] shadow-lg mt-5 md:mt-0  hover_transtion_effect ">
 
-                    <span className=" bg-blue-300 border-2 rounded-full w-20 h-20 p-3  absolute left-1/2 transform -translate-x-1/2 -top-10 mb-5 flex items-center justify-center text-white text-3xl">
+                    <span className=" bg-[#f38a0b] border-2 rounded-full w-20 h-20 p-3  absolute left-1/2 transform -translate-x-1/2 -top-10 mb-5 flex items-center justify-center text-white text-3xl">
 
                         <Image src={logo} alt='logo' />
 

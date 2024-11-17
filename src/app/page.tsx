@@ -9,6 +9,7 @@ import Privacy from "./components/privacy";
 import Disclaimer from "./components/Disclaimer";
 import About from "./components/About";
 import Teams from "./teams/page";
+import Contact from "./Contacts/page";
 
 
 
@@ -19,31 +20,31 @@ function HomePage() {
     <>
       <div className="fixed top-0">
         <Nav />
-
       </div>
 
-
-
-      <div className="">
+      <div className=" bg-black">
         <Banner />
       </div>
 
-      <div className="">
+      <div className="bg-black" >
+        <Packages />
+      </div>
+
+      <div className="bg-black">
         <About />
       </div>
 
-      <div className="">
+      <div className="bg-black">
         <Teams />
 
       </div>
-      <div className="">
+      <div className="bg-black">
         <Services />
-
+      </div>
+      <div className="bg-black">
+        <Contact />
       </div>
 
-      <div className="" >
-        <Packages />
-      </div>
 
       {/* <div className="" >
         <Privacy />
