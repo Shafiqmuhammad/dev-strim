@@ -10,6 +10,8 @@ import Disclaimer from "./components/Disclaimer";
 import About from "./components/About";
 import Teams from "./teams/page";
 import Contact from "./Contacts/page";
+import Newsletter from "./components/Newsletter";
+import Footer from "./TopFooter/page";
 
 
 
@@ -43,6 +45,12 @@ function HomePage() {
       </div>
       <div className="bg-black">
         <Contact />
+      </div>
+      <div className="bg-black">
+        <Newsletter />
+      </div>
+      <div className="bg-black">
+        <Footer />
       </div>
 
 

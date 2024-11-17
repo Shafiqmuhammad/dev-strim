@@ -47,6 +47,10 @@ export default function Nav() {
           <a href="#Contacts" className="block mt-4 lg:inline-block lg:mt-0 text-[#f38a0b] hover:text-white mr-4">
             Contact Us
           </a>
+          <a href="#Contacts" className="block mt-4 lg:inline-block lg:mt-0 text-[#f38a0b] hover:text-white mr-4">
+            Team
+          </a>
+
           <a href="#Privacy" className="block mt-4 lg:inline-block lg:mt-0 text-[#f38a0b] hover:text-white mr-4">
             Privacy
           </a>
