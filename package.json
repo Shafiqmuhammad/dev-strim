@@ -28,6 +28,7 @@
   "devDependencies": {
     "@types/aos": "^3.0.7",
     "@types/node": "^20.17.6",
+    "@types/pg": "^8.11.10",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
