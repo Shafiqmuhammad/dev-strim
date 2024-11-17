@@ -24,14 +24,14 @@ const Footer: React.FC = () => {
                     <div className="flex flex-col space-y-4">
                         <Link href="/" className="mb-8  inline-block">
                             <Image
-                                src="/images/logo/logo-qurantutoring-lightbg.png"
+                                src="/logos/logos.png"
                                 alt="logo"
                                 className=" dark:hidden "
                                 width={150}
                                 height={40}
                             />
                             <Image
-                                src="/images/logo/logo-qurantutoring.png"
+                                src="/logos/logos.png"
                                 alt="logo"
                                 className="hidden  dark:block"
                                 width={150}
@@ -39,8 +39,8 @@ const Footer: React.FC = () => {
                             />
                         </Link>
                         <ul className="space-y-2">
-                            <li className="text-gray-800">Email: admin@quranonlinetutoring.com</li>
-                            <li className="text-gray-800">Phone: +1 (914) 455-0557</li>
+                            <li className="text-gray-800">Email: admin@devstrim.com</li>
+                            <li className="text-gray-800">Phone: +92 306 6004786</li>
                         </ul>
 
 
@@ -96,7 +96,7 @@ const Footer: React.FC = () => {
                     <div className="flex flex-col space-y-4">
                         <h2 className="text-blue-500 text-lg font-semibold">Services</h2>
                         <ul className="space-y-2">
-                            <li>
+                            {/* <li>
                                 <Link href="/courses" className="text-gray-700 hover:text-blue-500">Regular Courses</Link>
                             </li>
                             <li>
@@ -107,24 +107,8 @@ const Footer: React.FC = () => {
                             </li>
                             <li>
                                 <Link href="/quran-reading-with-tajweed" className="text-gray-700 hover:text-blue-500">Quran Reading with Tajweed</Link>
-                            </li>
-                            <li>
-                                <Link href="/learn-tafsir-online" className="text-gray-700 hover:text-blue-500">Learn Tafsir Online</Link>
-                            </li>
+                            </li> */}
 
-                            <li>
-                                <Link href="/learn-arabic-language-online" className="text-gray-700 hover:text-blue-500">Learn Arabic Online</Link>
-                            </li>
-                            <li>
-                                <Link href="/learn-islamic-studies-online" className="text-gray-700 hover:text-blue-500">Learn Islamic Study Online</Link>
-                            </li>
-
-                            <li>
-                                <Link href="/male-quran-teacher" className="text-gray-700 hover:text-blue-500">Male Quran Teacher</Link>
-                            </li>
-                            <li>
-                                <Link href="/female-quran-teacher" className="text-gray-700 hover:text-blue-500">Female Quran Teacher</Link>
-                            </li>
                         </ul>
                     </div>
                     <div className="flex flex-col  space-y-4 ">
